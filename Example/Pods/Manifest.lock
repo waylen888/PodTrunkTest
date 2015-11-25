@@ -1,0 +1,14 @@
+PODS:
+  - PodTrunkTest (0.1.0)
+
+DEPENDENCIES:
+  - PodTrunkTest (from `../`)
+
+EXTERNAL SOURCES:
+  PodTrunkTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodTrunkTest: e356e2c216e8a60c351ee708882456b318bb02a6
+
+COCOAPODS: 0.39.0

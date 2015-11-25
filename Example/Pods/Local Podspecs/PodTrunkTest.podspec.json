@@ -1,0 +1,25 @@
+{
+  "name": "PodTrunkTest",
+  "version": "0.1.0",
+  "summary": "A short description of PodTrunkTest.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PodTrunkTest",
+  "license": "MIT",
+  "authors": {
+    "范姜士威": "waylen@mitake.com.tw"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PodTrunkTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "PodTrunkTest": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

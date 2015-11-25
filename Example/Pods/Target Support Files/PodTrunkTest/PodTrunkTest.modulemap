@@ -1,0 +1,6 @@
+framework module PodTrunkTest {
+  umbrella header "PodTrunkTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
